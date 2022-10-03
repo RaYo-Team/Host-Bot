@@ -1,6 +1,6 @@
 import telebot,random,os,requests
 from telebot import types
-bot = telebot.TeleBot('#Your Telegram Bot Token!')
+bot = telebot.TeleBot('5584524711:AAHPK9wa6MipZXuVduEBIp0MLdMPS9ohabw')
 
 # Github: https://github.com/PluginX
 # Telegram: https://t.me/Plugin
